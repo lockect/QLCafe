@@ -1,0 +1,8 @@
+{
+  "name": "Mê Cafe Nhỏ",
+  "short_name": "Mê Cafe",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
